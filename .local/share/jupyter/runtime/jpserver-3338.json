@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 3338,
+  "port": 8891,
+  "root_dir": "/home/vagrant",
+  "secure": false,
+  "sock": "",
+  "token": "16af30889af1e81023ec0312148d11084c3422edd62bfc38",
+  "url": "http://servidorUbuntu:8891/",
+  "version": "2.14.2"
+}
